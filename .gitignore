@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Distribution / Build
+build/
+dist/
+*.spec
+*.exe
+*.installer.exe
+
+# Installer Output
+tafim_monitor_installer.exe
+MonitorianClone_Setup.exe
+
+# IDEs
+.vscode/
+.idea/
+
+# Local Assets (if any temp ones)
+# keeping assets/icon.ico and icon.png as they are source
